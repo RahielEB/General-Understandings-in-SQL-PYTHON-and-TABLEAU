@@ -1,1 +1,10 @@
+This is the SQL section. I will be covering these topics
+-Writing queries to extract, filter, and transform data from relational databases
 
+-Using SELECT, JOIN, GROUP BY, WHERE, HAVING, ORDER BY fluently
+
+-Working with aggregations, subqueries, CTEs, and window functions
+
+-Understanding schemas, keys, and data relationships
+
+-Writing clean, readable, and efficient queries
